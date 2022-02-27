@@ -1,2 +1,2 @@
-# Estudo-sobre-html
+# Estudo sobre o HTML
  Estudos sobre o HTML
