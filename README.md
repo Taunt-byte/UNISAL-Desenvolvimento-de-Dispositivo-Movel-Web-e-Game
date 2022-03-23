@@ -2,8 +2,10 @@
 
  Conceitos,exemplos e alguns exercicios.
 
-
 # Conceitos
+
+## Class
+
 
 # Exemplos
 
@@ -15,4 +17,4 @@
 
 ## Exemplo 2
 
- Linkagem de arquivos como CSS e Javascript no HTML
+ Linkagem de arquivos como CSS e Javascript e outros no HTML
